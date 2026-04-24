@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MOCK_OPPORTUNITIES, MOCK_CAUSES } from '../../utils/mockData';
+import { MOCK_OPPORTUNITIES } from '../../utils/mockData';
 import { Plus, Edit3, Trash2, Eye, MapPin, Users, ToggleLeft as Toggle, ToggleRight } from 'lucide-react';
 import type { Opportunity } from '../../types/index';
 

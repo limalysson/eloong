@@ -1,7 +1,7 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 import { MOCK_VOLUNTEERS } from '../../utils/mockData';
-import { Heart, Mail, Phone, ExternalLink } from 'lucide-react';
+import { Heart, Mail, ExternalLink } from 'lucide-react';
 
 const NGOShowcase: React.FC = () => {
   const location = useLocation();

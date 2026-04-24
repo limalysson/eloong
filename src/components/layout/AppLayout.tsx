@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate, Link, useLocation } from 'react-router-dom';
-import { Heart, User, LayoutDashboard, LogOut, Menu } from 'lucide-react';
+import { LogOut, Menu } from 'lucide-react';
 import logo from '../../assets/logo.png';
 
 interface AppLayoutProps {

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { MOCK_VOLUNTEERS, MOCK_CAUSES } from '../../utils/mockData';
-import { Save, User, MapPin, Calendar, Heart, Award } from 'lucide-react';
+import { Save, User, Calendar, Heart, Award } from 'lucide-react';
 import type { VolunteerProfile, Cause } from '../../types/index';
 
 const VolunteerProfilePage: React.FC = () => {
