@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <defs>
+    <linearGradient id="eloong-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dcc70;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2b6cb0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="10" y="70" font-family="Arial, sans-serif" font-weight="900" font-size="60" fill="#2dcc70" style="letter-spacing: -2px;">EL</text>
+  <circle cx="115" cy="45" r="30" fill="none" stroke="#2dcc70" stroke-width="12" />
+  <circle cx="155" cy="65" r="30" fill="none" stroke="#2dcc70" stroke-width="12" />
+  <text x="200" y="70" font-family="Arial, sans-serif" font-weight="900" font-size="60" fill="#2dcc70" style="letter-spacing: -2px;">ONG</text>
+</svg>
